@@ -1,0 +1,7 @@
+name test world
+size 18 21
+// test
+
+critter space_critter.txt 0 0 0
+critter test_critter.txt 2 4 1
+critter test_critter.txt 3 5 4

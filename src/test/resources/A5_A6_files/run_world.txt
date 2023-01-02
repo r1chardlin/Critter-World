@@ -1,0 +1,5 @@
+name run world
+size 10 10
+
+critter run_critter.txt 1 1 1
+critter run_critter.txt 9 9 4

@@ -1,0 +1,475 @@
+commit dbb8b53c12a998d751e9906e0a8c04a429dfb936
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Dec 7 23:33:02 2022 -0500
+
+    deleted TODO
+
+commit 3b60c0176219194193738dad2547eecf92ada6d0
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Dec 7 22:59:39 2022 -0500
+
+    fixed index out of bounds
+
+commit 5a973a2bdb9d43f4aa544201149e7dd1ce3d3d8c
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Dec 7 22:36:17 2022 -0500
+
+    deleted HelloWorldApplication
+
+commit 7434387364e57e5c71898ad21413605547a1e1c6
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Dec 7 22:34:34 2022 -0500
+
+    added
+    tests
+
+commit 363a000ee90bb0be609183520971482396c95805
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Dec 7 22:26:33 2022 -0500
+
+    hopefully final commit
+
+commit e5ea7561fc6136b314a6dc99603110ea35ba9509
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Dec 7 21:59:05 2022 -0500
+
+    pre-final commit
+
+commit b0c74e01479945a0e080b808f73c960b68c4a0b3
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Dec 7 05:31:37 2022 -0500
+
+    added enableManna and enableForcedMutation to GUI
+
+commit bd15062aee43fa819f6d70166f3120dd70506177
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Dec 7 04:53:15 2022 -0500
+
+    removed most comments
+
+commit c3f30f9dec91dcaad1b706d2fc8ebbec807283cf
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Dec 7 04:16:10 2022 -0500
+
+    almost done
+
+commit 9b9a042af9f4718f0c7bb71aa6feb3c1b35b5968
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Mon Dec 5 03:23:57 2022 -0500
+
+    added TODO
+
+commit ffa7eb2ce8859a417940f075407048a0bddcb325
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Mon Dec 5 03:20:05 2022 -0500
+
+    added new image for fastforward/advance button
+
+commit 625249bd6bea7fd85203750bc8689d767f67bcd4
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Mon Dec 5 03:03:57 2022 -0500
+
+    yay
+
+commit 7c6f04b40c869ed2be0451a56de974934c766fd8
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Mon Dec 5 00:06:59 2022 -0500
+
+    shiii
+
+commit 2d4f15348f549b3eed729d3acc5a68bc6afd29c2
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Dec 4 15:57:45 2022 -0500
+
+    fixed button/ZoomableScrollPane and mate i think
+
+commit 30b314e243047a02c39a27641fa46a2ecaf2c5a0
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Dec 4 03:58:32 2022 -0500
+
+    edited comment
+
+commit 7115ce8ed987c0c7c91d093b90b7544f4e0350ce
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Dec 4 03:57:58 2022 -0500
+
+    added TODOs
+
+commit a6af123038a3c15fb771e20245e99fd7a031522a
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Dec 4 03:46:09 2022 -0500
+
+    bedyes
+
+commit b2f194610becd710cf5ee738fde6f5c6c267db26
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sat Dec 3 22:38:19 2022 -0500
+
+    ion even know
+
+commit 6ef97735c656f96d88b740182cf2fa1878417740
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Fri Dec 2 22:36:39 2022 -0500
+
+    FINISHED WORLDgit add -A!
+
+commit 205dc9f287b57f2d8f7436847b92b290434d3b69
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Fri Dec 2 17:08:41 2022 -0500
+
+    i hate javafx
+
+commit 853752d3dd8e7a883b0466aeaf1af14dfc94aa94
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Fri Dec 2 05:19:47 2022 -0500
+
+    added sprites
+
+commit 5366488b1d8734ddc5d67629d49618b08e862624
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Fri Dec 2 02:37:47 2022 -0500
+
+    so bedyes
+
+commit 7ae5c124554e454a80d5b5d0c8e5fbb156532a6a
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Thu Dec 1 00:44:02 2022 -0500
+
+    idk
+
+commit 9e6252e7237e313b9794c3665f4b77b8f9d5b38c
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 29 21:52:34 2022 -0500
+
+    fixed zoom scale
+
+commit f0bbc25be49ebdf243b2b8ca0ba91164a1f02e18
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sat Nov 26 16:49:24 2022 -0500
+
+    started GUI
+
+commit 8f489c4119301d5b630e1e86c17dc91047b64525
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Thu Nov 24 14:29:30 2022 -0500
+
+    some fixes
+
+commit 2b2368baeff4ae23b23f2ddc68f0d0f5ef958c19
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Thu Nov 17 23:51:30 2022 -0500
+
+    maybe last commit for a5
+
+commit 731ed3dd4c090051ee3691d22f2346ef4fc1d243
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Thu Nov 17 23:44:28 2022 -0500
+
+    almost final a5 commit
+
+commit 09d2d4d976953a409a6e697c1b9dc7ebe7a0ef23
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Thu Nov 17 02:28:17 2022 -0500
+
+    can i sleep pls
+
+commit 765ee10b5271d4b904334fcd7d554690ed666dbd
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Nov 16 22:03:05 2022 -0500
+
+    testing shits
+
+commit 90a9f2f29cb493d616219c8f807b4493755f2286
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Nov 16 12:49:10 2022 -0500
+
+    fixed parseCritterFile() to accept files with line spacing
+
+commit 78e9901989b744c71b6499706da8d3817c73218a
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Nov 16 00:38:40 2022 -0500
+
+    finished writing code and tested part of Controller
+
+commit 10619158af56bc97ce19d295d1876443dd197809
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 15 18:03:05 2022 -0500
+
+    added TODO comment
+
+commit 2f87fd9ddf52e781292b11badf6b199be0e0179d
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 15 18:02:29 2022 -0500
+
+    idk
+
+commit 68f948e0d991d30e0c9905aab680a87e89213fee
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 15 02:45:56 2022 -0500
+
+    added comment
+
+commit 7af89be35326dd06271962a772b2f074c2eceed6
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 15 02:45:16 2022 -0500
+
+    can i go to bed pls
+
+commit a6957b30e7fdb396dfc9ce57e481462283ee1f3c
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Mon Nov 14 21:51:45 2022 -0500
+
+    fixed nearby sensor
+
+commit 6cd3f9a55fb617a18fb873dff70f838ac3ced6bd
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Mon Nov 14 21:44:58 2022 -0500
+
+    implemented interpretRandomSensor() and setMem()
+
+commit 416de26a24285c01de97f514db3d6992e837c39b
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Mon Nov 14 00:35:02 2022 -0500
+
+    s
+
+commit 60232f003700a6ce69ef1c9247b26c70f4050d99
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Nov 13 23:14:13 2022 -0500
+
+    deleted Negative class
+
+commit 09fcdae2b9dcb381d3f87f42c77721d33eaf8cb1
+Author: BenjaminL1 <43938864+BenjaminL1@users.noreply.github.com>
+Date:   Sun Nov 13 21:37:26 2022 -0500
+
+    Interpreter shit
+
+commit 0d6215abc69df916696a5f7178af63377824e3d5
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Nov 13 14:02:55 2022 -0500
+
+    a5 shits
+
+commit 67691af6d1e852cc233b45401e708cc44a7b3cd6
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sat Nov 12 13:31:34 2022 -0500
+
+    fixed tokenizer to accept comments
+
+commit 25b82808b12567832539ab45a855e377b817e603
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sat Nov 12 12:39:55 2022 -0500
+
+    added a5 files and fixed some mutations
+
+commit a3639fee4759e5f7e9e02b6acfeaceaf339ce13d
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 8 23:11:44 2022 -0500
+
+    removed more useless import statements
+
+commit 33761923ef5194d3ee197ee6ac648df8467b61a5
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 8 23:08:42 2022 -0500
+
+    change import statements
+
+commit 375810dee047be9921e09812fd5d18718561d31a
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 8 23:06:33 2022 -0500
+
+    removed file for submission
+
+commit 12947c04e23eb41bf513b71a8e00d3e66e3d60ab
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 8 23:04:42 2022 -0500
+
+    fixed ParseAndMutateApp
+
+commit 9c984d9d8e828128fe6dc8e563e1cbbc15d81753
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 8 16:28:39 2022 -0500
+
+    idk
+
+commit f4e097820cb57974ced4434a0f43ead5535aeef8
+Merge: 2dc1764 351675e
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 8 16:10:40 2022 -0500
+
+    fix merge conflict
+
+commit 2dc17640bd28b83f879ded202e3ea3d1833a3f5e
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 8 16:07:20 2022 -0500
+
+    idk
+
+commit 351675e9d2d653626f446257fd44fad389377e91
+Author: BenjaminL1 <43938864+BenjaminL1@users.noreply.github.com>
+Date:   Tue Nov 8 15:47:57 2022 -0500
+
+    Everything written
+
+commit 83ca663bc280bc153452864536abe2bdb44a46e2
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 8 13:14:31 2022 -0500
+
+    tested mutations
+
+commit 29017a9ba1aba3e6028a774bc837d2de092b3a6b
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Tue Nov 8 02:02:23 2022 -0500
+
+    testing mutations
+
+commit 84273be81299ddc221d2384f2311628f5197d529
+Author: BenjaminL1 <43938864+BenjaminL1@users.noreply.github.com>
+Date:   Tue Nov 8 00:30:30 2022 -0500
+
+    Errors Fixed
+
+commit 72e22a60bdec94169c2d19e2e80ea1ccaf93c69a
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Mon Nov 7 22:32:55 2022 -0500
+
+    testing remove mutation
+
+commit ec17983630e1fc26725ce410bb84b175432803b1
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Mon Nov 7 19:22:42 2022 -0500
+
+    fixed prettyPrint() for BinaryOp
+
+commit 535162ab6f358c4edcb01b0daa61955de96976a4
+Author: BenjaminL1 <43938864+BenjaminL1@users.noreply.github.com>
+Date:   Mon Nov 7 13:44:18 2022 -0500
+
+    Finished Pretty Printing
+
+commit fe7a9af4e23ae290db16faf6d11c4f67ac7d68b0
+Author: BenjaminL1 <43938864+BenjaminL1@users.noreply.github.com>
+Date:   Mon Nov 7 12:17:53 2022 -0500
+
+    PrettyPrint
+
+commit ad20c573f71516a718ab407367633db17a4dcc91
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Nov 6 23:53:19 2022 -0500
+
+    finished mutations hopefully
+
+commit 5f32bfa39b7a64a74decc1314b69a4008e947826
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Nov 6 18:34:47 2022 -0500
+
+    implemented more mutations
+
+commit 651c464d878f423a20f384486c76a5fc59b30598
+Author: BenjaminL1 <43938864+BenjaminL1@users.noreply.github.com>
+Date:   Sun Nov 6 01:09:59 2022 -0500
+
+    I broke my damn phone
+
+commit e45d1eadadc32f7aea94e402a80155837c5afb73
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Nov 6 00:10:58 2022 -0400
+
+    changed remove mutation for negative expr
+
+commit 219dda15e0771c49df2b3d859fcf3cba2f6debe0
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Nov 6 00:07:17 2022 -0400
+
+    fixed clone() in mem
+
+commit 5534bf3ff1a5a332b6e543bdce3b241519a6388d
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sun Nov 6 00:06:16 2022 -0400
+
+    implement swap mutation
+
+commit 2ad437f3ecf2423f9ca6352f3562b74a7045e8d9
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Sat Nov 5 21:44:33 2022 -0400
+
+    tested ParserImpl and implemented Remove
+
+commit d6c8b2f501ffc642bc8153a60140324b37ca38b3
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Fri Nov 4 20:20:16 2022 -0400
+
+    forgot semicolon
+
+commit 99fc466f71236523763bac79bf094f228aae4823
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Fri Nov 4 20:19:39 2022 -0400
+
+    added parent pointers and change structure of mutations
+
+commit aaaf325323391658dd24f4a91f7d3a4af1a664ef
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Fri Nov 4 00:34:15 2022 -0400
+
+    added mutations classes
+
+commit db43745ba215c26a55d45fe36826534b76902be7
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Thu Nov 3 23:47:35 2022 -0400
+
+    added negative node and negative expr
+
+commit bc01048481f1ac8e80edd52e9d1893218dd4fd9c
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Nov 2 22:29:45 2022 -0400
+
+    deleted duplicate class
+
+commit db13b13db5b9d6bc3cb00d4ac9c56dbdcece3d31
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Nov 2 22:28:53 2022 -0400
+
+    finished AST
+
+commit ff3c70ba7617fcb7f5a911494e660fe7b31c6ba5
+Author: BenjaminL1 <43938864+BenjaminL1@users.noreply.github.com>
+Date:   Tue Nov 1 00:10:24 2022 -0400
+
+    bruh
+
+commit 362d7d3bbe6d4b4d3b0f5c2ce9cedc134a6b17f4
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Mon Oct 31 22:37:51 2022 -0400
+
+    heehee
+
+commit 26f338ed02aac4baf473205727b174a6886b9963
+Author: BenjaminL1 <43938864+BenjaminL1@users.noreply.github.com>
+Date:   Mon Oct 31 17:23:07 2022 -0400
+
+    Commit 1
+
+commit 8f8494028804d2d41b880fd02256e49f9f821090
+Author: BenjaminL1 <43938864+BenjaminL1@users.noreply.github.com>
+Date:   Sun Oct 30 21:16:38 2022 -0400
+
+    stuff
+
+commit 09a7fa9992c9dbbcfa4187ff44d644d89f635986
+Author: Richard Lin <rl659@cornell.edu>
+Date:   Wed Oct 26 01:51:24 2022 -0400
+
+    heehee
+
+commit 135253f3566982a3baa190922a359f27b9206f3f
+Author: BenjaminL1 <43938864+BenjaminL1@users.noreply.github.com>
+Date:   Sun Oct 23 21:47:32 2022 -0400
+
+    Commit 1
+
+commit d04b083ff93ddb3d0f0cfee9b3fbec533328b6f6
+Author: Shiyuan Huang <shiyuancn@live.cn>
+Date:   Mon Oct 17 18:49:43 2022 -0400
+
+    Initial commit

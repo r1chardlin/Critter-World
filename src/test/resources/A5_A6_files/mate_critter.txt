@@ -1,0 +1,9 @@
+species: mate critter
+memsize: 7
+defense: 1
+offense: 1
+size: 5
+energy: 2500
+posture: 0
+1 = 1 --> mate;
+

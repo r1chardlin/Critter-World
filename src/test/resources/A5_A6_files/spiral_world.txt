@@ -1,0 +1,4 @@
+name test world
+size 50 50
+
+critter spiral_critter.txt 25 25 0

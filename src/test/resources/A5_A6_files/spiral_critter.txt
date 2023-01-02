@@ -1,0 +1,14 @@
+species: written 3
+memsize: 11
+defense: 1
+offense: 1
+size: 5
+energy: 2500
+posture: 0
+mem[7] = 0 --> mem[7] := 1 mem[8] := mem[7] * 6 mem[9] := 1 mem[10] := 0 forward;
+mem[6] < 1 --> mem[6] := mem[6] + 1 right;
+mem[8] > 1 and mem[10] = 0 --> mem[10] := mem[9] right;
+nearby[0] = 0 and mem[8] > 1 and mem[10] > 0 --> mem[8] := mem[8] - 1 mem[10] := mem[10] - 1 forward;
+nearby[0] = 0 and mem[8] = 1 --> mem[6] := 0 mem[7] := mem[7] + 1 mem[8] := mem[7] * 6 mem[9] := mem[9] + 1 mem[10] := mem[9] + 1 forward;
+nearby[0] < -1 --> eat;
+nearby[0] = -1 --> right;

@@ -1,0 +1,31 @@
+name smell world
+size 21 21
+
+critter smell_critter.txt 4 12 1
+food 2 14 1000
+// food 6 6 1000
+// food 6 18 1000
+// food 6 20 1000
+// food 9 7 1000
+// food 9 17 1000
+
+rock 3 5
+rock 3 7
+rock 3 9
+rock 3 11
+rock 3 13
+rock 3 15
+rock 3 17
+rock 2 16
+rock 1 15
+rock 1 13
+rock 2 10
+rock 2 6
+rock 5 17
+rock 6 16
+rock 5 5
+rock 5 7
+rock 5 11
+rock 6 8
+rock 7 7
+rock 7 11

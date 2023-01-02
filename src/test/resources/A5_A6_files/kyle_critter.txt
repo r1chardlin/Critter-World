@@ -1,0 +1,14 @@
+species: Kyle Wyatt
+memsize: 8
+defense: 5
+offense: 1
+// weight: 250
+// bc he is fat
+size: 10
+energy: 2500
+posture: 0
+
+nearby[3] = 0 and ENERGY >= 500 --> bud;
+ahead[1] = 0 --> serve[100];
+nearby[3] != 0 --> right;
+1 = 1 --> wait;

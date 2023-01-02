@@ -1,0 +1,19 @@
+name view world
+size 10 10
+
+// critter space_critter.txt 0 0 0
+// critter test_critter.txt 2 4 1
+// critter test_critter.txt 3 5 4
+// critter kyle_critter.txt 5 5 3
+
+critter space_critter.txt 0 0 0
+critter run_critter.txt 1 1 1
+critter test_critter.txt 2 2 2
+critter kyle_critter.txt 3 3 3
+// critter mate_critter.txt 4 4 4
+// critter eat_critter.txt 5 5 5
+
+rock 8 8
+rock 4 0
+rock 4 4
+food 4 2 5

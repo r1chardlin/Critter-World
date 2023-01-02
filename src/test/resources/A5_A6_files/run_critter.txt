@@ -1,0 +1,11 @@
+species: run critter
+memsize: 8
+defense: 1
+offense: 1
+size: 2
+energy: 2500
+posture: 0
+
+nearby[0] = 0 --> forward;
+nearby[0] < -1 --> eat;
+nearby[0] = -1 or nearby[0] > 0 --> left;

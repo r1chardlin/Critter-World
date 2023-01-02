@@ -1,0 +1,12 @@
+species: bud critter
+memsize: 8
+defense: 1
+offense: 1
+size: 5
+energy: 2500
+posture: 0
+
+nearby[3] = 0 and ENERGY >= 500 --> bud;
+ahead[1] = 0 --> serve[100];
+nearby[3] != 0 --> right;
+1 = 1 --> wait;

@@ -1,0 +1,10 @@
+name big world
+size 50 50
+
+critter mate_critter.txt 10 10 0
+critter mate_critter.txt 10 12 3
+critter mate_critter.txt 20 20 3
+// rock 0 0
+// rock 1 1
+// rock 2 2
+food 0 0 5

@@ -1,0 +1,13 @@
+species: written 3
+memsize: 7
+defense: 1
+offense: 1
+size: 5
+energy: 2500
+posture: 0
+mem[6] = 0 and smell < 1006 --> mem[6] := SMELL - 1000 + 2;
+mem[6] > 2 --> mem[6] := mem[6] - 1 right;
+mem[6] = 2 --> mem[6] := 1 eat;
+mem[6] = 1 --> mem[6] := 0 forward
+ENERGY >= 500 * SIZE - 100 --> bud;
+1 = 1 wait;

@@ -1,0 +1,4 @@
+name eat world
+size 10 10
+
+critter eat_critter.txt 5 5 0
